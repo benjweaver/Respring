@@ -1,0 +1,10 @@
+Package: com.r3st1t0u.respring
+Name: Respring Icon
+Depends:
+Conflicts:
+Version: 1.1
+Architecture: iphoneos-arm
+Description: This is a respring icon. It is a shortcut to run "killall -9 SpringBoard. It should work on most versions of iOS. You may donate at paypal.me/r3st1t0u!
+Maintainer: r3st1t0u (Ben Weaver)
+Author: r3st1t0u (Ben Weaver)
+Section: System
